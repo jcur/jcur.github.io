@@ -34,7 +34,10 @@ theme: slate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+<<<<<<< HEAD
 
+=======
+>>>>>>> eb55fd33798f666fdf913326fd04c446fbeba266
 
 # Exclude from processing.
 # The following items will not be processed, by default.
