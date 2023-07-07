@@ -4,5 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-This is going to be where I put my list of publications.
 
+<img src="pictures/fortnite.png" width="200"> <img src="pictures/fortnite.png" width="200"> <img src="pictures/fortnite.png" width="200">  
+Optimizing Chatbots Fallback Intents Selection with Reinforcement Learning<br/> 
+Jeremy Curuksu<br/> Proceedings of the 40th ICML, Hawaii, USA, 2023 [\[PDF\]](https://jekyllrb.com/docs/home)
+
+
+                                         
