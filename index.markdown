@@ -2,7 +2,7 @@
 layout: home
 ---
 
-***Welcome to my personal website!*** 
+<span style="font-size:20px">***Welcome to my personal website!***</span> 
 
 I'm a Research Scientist and a Professor, so on this website you can find a list of my publications and some teaching material. 
 
