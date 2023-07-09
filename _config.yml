@@ -13,9 +13,7 @@
 title: Jeremy David Curuksu 
 email: jeremcur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This will be a short but awesome description for my new site here. I can edit this
-  line in _config.yml. It will appear in my document head meta (for
-  Google search results) and in my feed.xml site description.
+  Feel free to email me with questions about the contents of this website, or to chat about reinforcement learning, dynamic systems, time series, NLP, mathematics, biology/psychology, or any combination thereoff. Have fun! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
