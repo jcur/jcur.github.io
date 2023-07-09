@@ -16,6 +16,7 @@ I'm an adjunct Professor at New York University's Center for Data Science locate
 **Reinforcement Learning** <br/> 
 Instructor: Jeremy Curuksu (*Professor*)<br/>
 Teaching Assistants: Anudeep Tubati (*Section Leader, Grader*), Shreya Sinha (*Grader*)<br/> 
+[\[Syllabus\]](3001/DSGA3001_ReinforcementLearning_Syllabus.pdf)<br/>
 [\[Lecture 1\]](3001/lectures/DSGA3001_RL_lect1.pdf), [\[Lab 1\]](3001/labs/2023_dsga3001_008_lab1.ipynb) <br/>
 [\[Lecture 2\]](3001/lectures/DSGA3001_RL_lect2.pdf), [\[Lab 2\]](3001/labs/2023_dsga3001_008_lab2.ipynb) <br/>
 [\[Lecture 3\]](3001/lectures/DSGA3001_RL_lect3.pdf), [\[Lab 3\]](3001/labs/2023_dsga3001_008_lab3.ipynb) <br/>
@@ -24,7 +25,7 @@ Teaching Assistants: Anudeep Tubati (*Section Leader, Grader*), Shreya Sinha (*G
 [\[Lecture 6\]](3001/lectures/DSGA3001_RL_lect6.pdf), [\[Lab 6\]](3001/labs/2023_dsga3001_008_lab6.ipynb) <br/>
 [\[Lecture 7\]](3001/lectures/DSGA3001_RL_lect7.pdf), [\[Lab 7\]](3001/labs/2023_dsga3001_008_lab7.ipynb) <br/>
 [\[Lecture 8\]](3001/lectures/DSGA3001_RL_lect8.pdf), [\[Lab 8\]](3001/labs/2023_dsga3001_008_lab8.ipynb) <br/>
-Lecture 9 (Advanced Topics and Development Platforms), Lab 9 (AlphaZero)<br/>
+Lecture 9 (Advanced Topics and RL Development Platforms), Lab 9 (AlphaZero)<br/>
 [\[Lab 5, part 2\]](3001/labs/2023_dsga3001_008_lab5_part2.ipynb) 
 
 <br/>
@@ -37,6 +38,7 @@ Lecture 9 (Advanced Topics and Development Platforms), Lab 9 (AlphaZero)<br/>
 **Programming for Data Science** <br/>
 Instructor: Jeremy Curuksu (*Professor*)<br/>
 Teaching Assistants: Devarsh Patel (*Section Leader*), Cora Mao (*Section Leader, Grader*), Zhongyan Wang (*Grader*), Pranav Singh (*Grader*)<br/>
+[\[Syllabus\]](1007/Syllabus_DSGA1007_Fall2022.pdf)<br/>
 [\[Lecture 1\]](1007/lectures/2022_dsga1007_lect01.pdf), [\[Lab 1\]](1007/labs/2022_dsga1007_lab1.ipynb) <br/>
 [\[Lecture 2\]](1007/lectures/2022_dsga1007_lect02.pdf), [\[Lab 2\]](1007/labs/2022_dsga1007_lab2.ipynb) <br/>
 [\[Lecture 3\]](1007/lectures/2022_dsga1007_lect03.pdf), [\[Lab 3\]](1007/labs/2022_dsga1007_lab3.ipynb) <br/>
