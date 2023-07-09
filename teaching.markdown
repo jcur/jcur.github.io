@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I'm an Adjunct professor at the Center for Data Science of New York University (NYU)... in New York. I teach Programming for Data Science in Fall, and Reinforcement Learning in Spring.
+I'm an adjunct Professor at New York University's Center for Data Science located in Manhattan, NY (USA). I teach Programming for Data Science in Fall, and Reinforcement Learning in Spring.
 
 <br/>
 
