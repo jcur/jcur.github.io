@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![](pictures/MeAndJackson.jpg)
+<img src="pictures/MeAndJackson.jpg" width="650"> <br/>
 
-His name is Jackson :o) 
+His name is Jackson! Yes, like Michael Jackson. No, it's not mine. 
+
 
