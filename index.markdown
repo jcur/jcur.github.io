@@ -13,7 +13,7 @@ At Amazon, I lead a science team to help optimize something called *talent plann
 <br/>
 
 <span style="color:grey;font-weight:400;font-size:15px"> 
-Jul 6, 2023
+Last update: Jul 6, 2023
 </span>
 
 <span style="color:blue;font-size:40px">
@@ -23,7 +23,7 @@ Jul 6, 2023
 <br/>
 
 <span style="color:grey;font-weight:400;font-size:15px"> 
-May 15, 2023
+Last update: May 15, 2023
 </span>
 
 <span style="color:blue;font-size:40px">
