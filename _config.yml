@@ -13,7 +13,7 @@
 title: Jeremy David Curuksu 
 email: jeremcur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Feel free to email me with questions about the contents of this website, or to chat about reinforcement learning, dynamic systems, time series, NLP, mathematics, biology/psychology, or any combination thereoff. Have fun! 
+  Feel free to email me with questions about the contents of this website, or to chat about reinforcement learning, dynamic systems, time series, NLP, mathematics, biology/psychology, or any combination thereoff. Keep it fun! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

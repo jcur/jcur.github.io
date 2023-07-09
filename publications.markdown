@@ -29,8 +29,8 @@ J Chem Phys (in review), 2023 [\[PDF\]](publications/dnasuphelspectral.pdf)<br/>
 Charles Prosper, **Jeremy Curuksu**<br/> 
 AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RL_Markov_WhatIf_AMLC2023.pdf)<br/>
 
-*Is it Markov? Measuring the Markov property for data-driven reinforcement learning*<br/>
-Charles Prosper, **Jeremy Curuksu**<br/>
+*Is it Markov? Data-driven reinforcement learning*<br/>
+**Jeremy Curuksu**<br/>
 INFORMS annual meeting, Phoenix, 2023 [Invited Speaker] <br/><br/>
 
 <img src="pictures/RLforNLP.png" height="170"><br/>
