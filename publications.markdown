@@ -116,4 +116,4 @@ Nucleic Acids Res, 36: 2268-83, 2008  [\[PDF\]](https://www.ncbi.nlm.nih.gov/pmc
 <img src="pictures/phd.png" width="800"><br/>
 *Conformational sampling by molecular mechanics optimization and dynamics simulations of nucleic acids*<br/> 
 **Jeremy Curuksu**<br/>
-PhD thesis, Paris 7 (France) and Jacobs University (Germany), 10.2005 to 12.2008 <br/><br/>
+PhD thesis, Paris 7 University (France) and Jacobs University (Germany), 10.2005 to 12.2008 <br/><br/>
