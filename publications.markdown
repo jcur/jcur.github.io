@@ -36,7 +36,7 @@ J Chem Phys (in review), 2023 [\[PDF\]](publications/dnasuphelspectral.pdf)<br/>
 <img src="pictures/RLforNLP.png" height="170"><br/>
 *Learning to read like a human: Reinforcement learning for natural language processing*<br/>
 **Jeremy Curuksu**<br/>
-AMLC, 10th Amazon ML Conference, 2022 [\[PDF\]](publications/RLforNLP_AMLC2022.pdf)<br/><br/>
+AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RLforNLP_AMLC2023.pdf)<br/><br/>
 
 <img src="pictures/GraphTransformer.png" height="170"><br/>
 *Graph Transformer for workforce planning*<br/>
