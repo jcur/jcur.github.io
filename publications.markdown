@@ -10,16 +10,6 @@ permalink: /publications/
 Jimmy Rigby, **Jeremy Curuksu**<br/>
 Organizational Research Methods (in review), 2023<br/><br/>
 
-<img src="pictures/dna_kinetic.png" height="150"><br/>
-*From fine-grain to coarse-grain modeling: Estimating kinetic parameters of DNA molecules*<br/> 
-**Jeremy Curuksu**<br/>
-J Math Biol (in review), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
-
-<img src="pictures/minicircles2.png" height="170"><br/>
-*Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations*<br/>
-**Jeremy Curuksu**<br/>
-J Chem Phys (in review), 2023 [\[PDF\]](publications/dnasuphelspectral.pdf)<br/><br/>
-
 <img src="pictures/rl_chatbot_fallback2.png" height="150"><br/>
 *Optimizing Chatbots Fallback Intents Selection with Reinforcement Learning*<br/>
 **Jeremy Curuksu**<br/> Proceedings of the 40th ICML, Hawaii, USA, 2023 [\[PDF\]](publications/ICML2023_OptimizingChatbotFallback.pdf)<br/><br/>
@@ -33,10 +23,20 @@ AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RL_Markov_WhatIf_AM
 **Jeremy Curuksu**<br/>
 INFORMS annual meeting, Phoenix, 2023 [Invited Speaker] <br/><br/>
 
+<img src="pictures/dna_kinetic.png" height="150"><br/>
+*From fine-grain to coarse-grain modeling: Estimating kinetic parameters of DNA molecules*<br/>
+**Jeremy Curuksu**<br/>
+J Math Biol (in review), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
+
+<img src="pictures/minicircles2.png" height="170"><br/>
+*Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations*<br/>
+**Jeremy Curuksu**<br/>
+J Chem Phys (in review), 2023 [\[PDF\]](publications/dnasuphelspectral.pdf)<br/><br/>
+
 <img src="pictures/RLforNLP.png" height="170"><br/>
 *Learning to read like a human: Reinforcement learning for natural language processing*<br/>
 **Jeremy Curuksu**<br/>
-AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RLforNLP_AMLC2023.pdf)<br/><br/>
+AMLC, 10th Amazon ML Conference, 2022 [\[PDF\]](publications/RLforNLP_AMLC2022.pdf)<br/><br/>
 
 <img src="pictures/GraphTransformer.png" height="170"><br/>
 *Graph Transformer for workforce planning*<br/>
