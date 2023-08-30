@@ -31,7 +31,7 @@ J Math Biol (in review), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
 <img src="pictures/minicircles2.png" height="170"><br/>
 *Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations*<br/>
 **Jeremy Curuksu**<br/>
-J Chem Phys (in press), 2023 [\[PDF\]](publications/dnasuphelspectral_proof.pdf)<br/><br/>
+J Chem Phys (in press), 2023 [\[PDF (author proof)\]](publications/dnasuphelspectral_proof.pdf)<br/><br/>
 
 <img src="pictures/RLforNLP.png" height="170"><br/>
 *Learning to read like a human: Reinforcement learning for natural language processing*<br/>
