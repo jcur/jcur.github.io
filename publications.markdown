@@ -31,7 +31,7 @@ INFORMS annual meeting, Phoenix, 2023 [Invited Speaker] <br/><br/>
 <img src="pictures/dna_kinetic.png" height="150"><br/>
 *From fine-grain to coarse-grain modeling: Estimating kinetic parameters of DNA molecules*<br/>
 **Jeremy Curuksu**<br/>
-J Math Biol (in review), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
+J Math Biol (in press), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
 
 <img src="pictures/minicircles2.png" height="170"><br/>
 *Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations*<br/>
