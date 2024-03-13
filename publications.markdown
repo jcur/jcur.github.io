@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 
+<img src="pictures/react_fallback.png" height="200"><br/>
+*Superalignment of reasoning-acting agent faithfulness with reinforcement learning*<br/>
+**Jeremy Curuksu**<br/>
+(in prep.) 2024<br/><br/>
+
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
 Jimmy Rigby, **Jeremy Curuksu**<br/>
