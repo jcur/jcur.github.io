@@ -8,7 +8,7 @@ permalink: /publications/
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
 Jimmy Rigby, **Jeremy Curuksu**<br/>
-Organizational Research Methods (in review), 2023<br/><br/>
+Society for Industrial and Organizational Psychology Annual Conference, Chicago, USA, 2024<br/><br/>
 
 <img src="pictures/rl_chatbot_fallback2.png" height="150"><br/>
 *Optimizing Chatbots Fallback Intents Selection with Reinforcement Learning*<br/>
