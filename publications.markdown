@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-<img src="pictures/react_fallback.png" height="200"><br/>
+<img src="pictures/react_fallback.png" height="130"><br/>
 *Superalignment of reasoning-acting agent faithfulness with reinforcement learning*<br/>
 **Jeremy Curuksu**<br/>
 (in prep.) 2024<br/><br/>
