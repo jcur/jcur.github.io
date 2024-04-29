@@ -8,7 +8,7 @@ permalink: /publications/
 <img src="pictures/react_fallback.png" height="130"><br/>
 *Fine tuning faithfulness of reasoning-acting language models with reinforcement learning*<br/>
 **Jeremy Curuksu**<br/>
-NeurIPS 2024 (in prep.) <br/><br/>
+NeurIPS, 2024 (in prep.) <br/><br/>
 
 <img src="pictures/hcsp.png" height="142"><br/>
 *Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
@@ -18,7 +18,7 @@ AMLC, 12th Amazon ML Conference, 2024 (in review) <br/><br/>
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
 Jimmy Rigby, **Jeremy Curuksu**<br/>
-Society for Industrial and Organizational Psychology (SIOP) Annual Conference, Chicago, USA, 2024<br/><br/>
+SIOP (Society for Industrial and Organizational Psychology) Annual Conference, Chicago, USA, 2024<br/><br/>
 
 <img src="pictures/rl_chatbot_fallback2.png" height="150"><br/>
 *Optimizing Chatbots Fallback Intents Selection with Reinforcement Learning*<br/>
