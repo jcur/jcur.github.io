@@ -8,7 +8,12 @@ permalink: /publications/
 <img src="pictures/react_fallback.png" height="130"><br/>
 *Superalignment of reasoning-acting agent faithfulness with reinforcement learning*<br/>
 **Jeremy Curuksu**<br/>
-(in prep.) 2024<br/><br/>
+NeurIPS 2024 (in prep.) <br/><br/>
+
+<img src="pictures/hcsp.png" height="130"><br/>
+*Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
+Jimmy Rigby, Peter Zhu, Nooshin Yousefi, **Jeremy Curuksu**<br/>
+AMLC, 12th Amazon ML Conference, 2024 (in prep.) <br/><br/>
 
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
