@@ -13,7 +13,7 @@ NeurIPS, 2024 (in prep.) <br/><br/>
 <img src="pictures/hcsp.png" height="142"><br/>
 *Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
 Jimmy Rigby, Peter Zhu, Nooshin Yousefi, **Jeremy Curuksu**<br/>
-AMLC, 12th Amazon ML Conference, 2024 (in review) [\[PDF\]](publications/AMLC_Paper_GraphTransformerForWorkforcePlanning.pdf)<br/><br/>
+AMLC, 12th Amazon ML Conference, 2024 (in review) [\[PDF\]](publications/AMLC2024_Policy_Optimization_Workforce_Planning.pdf)<br/><br/>
 
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
