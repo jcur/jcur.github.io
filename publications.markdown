@@ -8,7 +8,7 @@ permalink: /publications/
 <img src="pictures/react_fallback.png" height="130"><br/>
 *Fine tuning faithfulness of reasoning-acting language models with reinforcement learning*<br/>
 **Jeremy Curuksu**<br/>
-NeurIPS, 2024 (in prep.) <br/><br/>
+NeurIPS, 2024 (in review) [\[PDF\]](publications/LMfallback_optimization_2024.pdf) <br/><br/>
 
 <img src="pictures/hcsp.png" height="142"><br/>
 *Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
