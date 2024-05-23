@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-<img src="pictures/react_fallback.png" height="130"><br/>
+<img src="pictures/react_fallback_new.png" height="130"><br/>
 *Fine tuning faithfulness of reasoning-acting language models with reinforcement learning*<br/>
 **Jeremy Curuksu**<br/>
 NeurIPS, 2024 (in review) [\[PDF\]](publications/NeurIPS_2024_LLM_PolicyOptimization.pdf) <br/><br/>
