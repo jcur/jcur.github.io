@@ -32,7 +32,7 @@ Teaching Assistants: Anudeep Tubati (*Section Leader, Grader*), Anjel Patel (*Gr
 
 <span style="color:grey;font-weight:400;font-size:15px"> Dec 15, 2023</span><br/>
 
-<img src="pictures/oop2.png" width="300"><br/>
+<img src="pictures/oop2.png" width="400"><br/>
 **DS-GA 1007, Fall 2023**<br/>
 **Programming for Data Science** <br/>
 Instructor: Jeremy Curuksu (*Professor*)<br/>
@@ -54,7 +54,7 @@ Teaching Assistants: Shivam Ahuja (*Section Leader, Grader*), Jiayue He (*Sectio
 
 <span style="color:grey;font-weight:400;font-size:15px"> May 15, 2023</span><br/>
 
-<img src="pictures/rl_2023.png" width="300"> <br/>  
+<img src="pictures/rl_2023.png" width="400"> <br/>  
 **DS-GA 3001.007, Spring 2023** <br/>
 **Reinforcement Learning** <br/> 
 Instructor: Jeremy Curuksu (*Professor*)<br/>
@@ -76,7 +76,7 @@ Lecture 9 (Advanced Topics and RL Development Platforms), Lab 9 (AlphaZero)<br/>
 
 <span style="color:grey;font-weight:400;font-size:15px"> Dec 15, 2022</span><br/>
 
-<img src="pictures/oop2.png" width="300"><br/>
+<img src="pictures/oop2.png" width="400"><br/>
 **DS-GA 1007, Fall 2022**<br/>
 **Programming for Data Science** <br/>
 Instructor: Jeremy Curuksu (*Professor*)<br/>
