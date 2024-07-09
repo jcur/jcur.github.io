@@ -12,7 +12,7 @@ I'm an adjunct Professor at New York University's Center for Data Science locate
 
 <span style="color:grey;font-weight:400;font-size:15px"> May 15, 2024</span><br/>
 
-<img src="pictures/rl_2024.png" width="300"> <br/>
+<img src="pictures/rl_2024.png" width="400"> <br/>
 **DS-GA 3001.007, Spring 2024** <br/>
 **Reinforcement Learning** <br/>
 Instructor: Jeremy Curuksu (*Professor*)<br/>
