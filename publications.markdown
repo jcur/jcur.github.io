@@ -6,14 +6,14 @@ permalink: /publications/
 
 
 <img src="pictures/react_fallback_new.png" width="500"><br/>
-*Policy optimization of language models to align fidelity and efficiency of reasoning agents in multi-turn conversations*<br/>
+*Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues*<br/>
 **Jeremy Curuksu**<br/>
-NeurIPS, 2024 (in review) [\[PDF\]](publications/NeurIPS_2024_LLM_PolicyOptimization.pdf) <br/><br/>
+KDD, Barcelona, Spain, 2024 [\[PDF\]](publications/RecSysLLM_FallbackOptimization.pdf) <br/><br/>
 
 <img src="pictures/hcsp.png" height="142"><br/>
 *Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
 Jimmy Rigby, Peter Zhu, Nooshin Yousefi, **Jeremy Curuksu**<br/>
-AMLC, 12th Amazon ML Conference, 2024 (in review) [\[PDF\]](publications/AMLC2024_Policy_Optimization_Workforce_Planning.pdf)<br/><br/>
+AMLC, 12th Amazon ML Conference, 2024 [\[PDF\]](publications/AMLC2024_Policy_Optimization_Workforce_Planning.pdf)<br/><br/>
 
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
