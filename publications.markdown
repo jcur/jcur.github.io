@@ -13,7 +13,7 @@ KDD, Barcelona, Spain, 2024 [\[PDF\]](publications/RecSysLLM_FallbackOptimizatio
 <img src="pictures/hcsp.png" height="142"><br/>
 *Workforce Planning Policy Optimization with Trajectory Transfomer*<br/>
 Jimmy Rigby, Peter Zhu, Nooshin Yousefi, **Jeremy Curuksu**<br/>
-AMLC, 12th Amazon ML Conference, 2024 [\[PDF\]](publications/AMLC2024_Policy_Optimization_Workforce_Planning.pdf)<br/><br/>
+AMLC, 12th Amazon ML Conference, 2024 [\[PDF\]](publications/AMLC2024_Policy_Optimization_Workforce_Planning_vf.pdf)<br/><br/>
 
 <img src="pictures/mab_orgres.png" height="200"><br/>
 *Quantifying and reducing bias in treatment effect estimates from multi-armed bandits*<br/> 
@@ -33,6 +33,11 @@ AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RL_Markov_WhatIf_AM
 **Jeremy Curuksu**<br/>
 INFORMS annual meeting, Phoenix, 2023 [Invited Speaker] <br/><br/>
 
+<img src="pictures/RLforNLP.png" height="170"><br/>
+*Learning to read like a human: Reinforcement learning for natural language processing*<br/>
+**Jeremy Curuksu**<br/>
+INFORMS annual meeting, Phoenix, 2023 [\[PDF\]](publications/RLforNLP_AMLC2023.pdf)<br/><br/>
+
 <img src="pictures/dna_kinetic.png" height="150"><br/>
 *From fine-grain to coarse-grain modeling: Estimating kinetic parameters of DNA molecules*<br/>
 **Jeremy Curuksu**<br/>
@@ -42,11 +47,6 @@ J Math Biol (in press), 2023 [\[PDF\]](publications/DNAkinetic.pdf)<br/><br/>
 *Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations*<br/>
 **Jeremy Curuksu**<br/>
 J Chem Phys, 159(10):105101, 2023 [\[PDF\]](https://pubs.aip.org/aip/jcp/article-abstract/159/10/105101/2910499/Spectral-analysis-of-DNA-superhelical-dynamics?redirectedFrom=fulltext)<br/><br/>
-
-<img src="pictures/RLforNLP.png" height="170"><br/>
-*Learning to read like a human: Reinforcement learning for natural language processing*<br/>
-**Jeremy Curuksu**<br/>
-AMLC, 11th Amazon ML Conference, 2023 [\[PDF\]](publications/RLforNLP_AMLC2023.pdf)<br/><br/>
 
 <img src="pictures/GraphTransformer.png" height="170"><br/>
 *Graph Transformer for workforce planning*<br/>
