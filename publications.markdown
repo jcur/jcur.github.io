@@ -13,6 +13,7 @@ AWS AI Blog, 2025 [\[PDF\]](https://aws.amazon.com/blogs/machine-learning/fine-t
 <img src="pictures/react_fallback_new.png" width="500"><br/>
 *Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues*<br/>
 **Jeremy Curuksu**<br/>
+NeurIPS, Vancouver, Canada, 2024 [\[PDF\]](https://openreview.net/pdf?id=nFcpZ9P84q) <br/>
 KDD, Barcelona, Spain, 2024 [\[PDF\]](publications/RecSysLLM_FallbackOptimization.pdf) <br/><br/>
 
 <img src="pictures/hcsp.png" height="142"><br/>
