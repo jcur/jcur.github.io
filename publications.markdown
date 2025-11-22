@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 
+<img src="pictures/RLAIFblog.png" height="140"><br/>
+*Fine-tune large language models with reinforcement learning from human or AI feedback*<br/>
+**Jeremy Curuksu**<br/>
+AWS AI Blog, 2025 [\[PDF\]](https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/)<br/><br/>
+
 <img src="pictures/react_fallback_new.png" width="500"><br/>
 *Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues*<br/>
 **Jeremy Curuksu**<br/>
