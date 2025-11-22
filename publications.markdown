@@ -6,7 +6,7 @@ permalink: /publications/
 
 <img src="pictures/spatial_reasoning.png" width="500"><br/>
 *Building more accountable multi-modal LLMs through spatially-informed visual reasoning*<br/>
-Jing Wu, Suiyao Chen, Sasha Gutfraind, Inseok Heo, Shengjie Liu, Chen Li, **Jeremy Curuksu**, Michael Sharps<br/>
+Jing Wu, Suiyao Chen, Sasha Gutfraind, Inseok Heo, Shengjie Liu, **Jeremy Curuksu**, Michael Sharps<br/>
 NeurIPS, San Diego, USA, 2025 [\[PDF\]](https://assets.amazon.science/12/0a/49aece4144cf8ae157fe34a9f1db/scipub-approval152134-41199128-building-more-accountable-multimodal-llms-through-spatiallyinformed-visual-reasoning.pdf) <br/><br/>
 
 <img src="pictures/RLAIFblog.png" width="500"><br/>
