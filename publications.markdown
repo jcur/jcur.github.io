@@ -10,7 +10,7 @@ Jing Wu, Suiyao Chen, Sasha Gutfraind, Inseok Heo, Shengjie Liu, **Jeremy Curuks
 NeurIPS, San Diego, USA, 2025 [\[PDF\]](https://assets.amazon.science/12/0a/49aece4144cf8ae157fe34a9f1db/scipub-approval152134-41199128-building-more-accountable-multimodal-llms-through-spatiallyinformed-visual-reasoning.pdf) <br/><br/>
 
 <img src="pictures/RLAIFblog.png" width="500"><br/>
-*Fine-tune large language models with reinforcement learning from human or AI feedback*<br/>
+*Fine tuning large language models with reinforcement learning from human or AI feedback*<br/>
 **Jeremy Curuksu**<br/>
 AWS AI Blog, 2025 [\[PDF\]](https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/)<br/><br/>
 
