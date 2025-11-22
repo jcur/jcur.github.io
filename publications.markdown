@@ -15,7 +15,8 @@ NeurIPS, San Diego, USA, 2025 [\[PDF\]](https://assets.amazon.science/12/0a/49ae
 AWS AI Blog, 2025 [\[PDF\]](https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/)<br/><br/>
 
 <img src="pictures/react_fallback_new.png" width="500"><br/>
-*Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues*<br/>
+*Policy optimization to align the validity, coherence and efficiency of reasoning agents in multi-turn dialogues*<br/>
+<!-- *Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues*<br/> -->
 **Jeremy Curuksu**<br/>
 NeurIPS, Vancouver, Canada, 2024 [\[PDF\]](https://openreview.net/pdf?id=nFcpZ9P84q) <br/>
 KDD, Barcelona, Spain, 2024 [\[PDF\]](publications/RecSysLLM_FallbackOptimization.pdf) <br/><br/>
