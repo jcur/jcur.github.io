@@ -73,10 +73,12 @@ AWS AI Blog, 2018 [\[PDF\]](https://aws.amazon.com/blogs/machine-learning/foreca
 **Jeremy Curuksu**<br/>
 AWS Ten Minute Tutorials, 2018 [\[PDF\]](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)<br/><br/>
 
+<!--
 <img src="pictures/Book_DataDriven.png" height="280"><br/>
 *Data Driven* [Book]<br/>
 **Jeremy Curuksu**<br/>
 Management for Professionals, Springer, New York, 2018 [\[PDF\]](https://www.amazon.com/Data-Driven-Introduction-Management-Professionals/dp/3030099415)<br/><br/>
+-->
 
 <img src="pictures/DSbookchapter_advanced.png" height="200"><br/>
 *Principles of Data Science: Advanced* [Book Chapter]<br/>
